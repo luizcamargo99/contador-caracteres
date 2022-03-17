@@ -1,0 +1,8 @@
+@media (max-width: 600px) {
+    textarea {
+        height: 10rem;
+        resize: none;
+        font-size: 1.2rem;
+        width: 20rem;
+    }
+}
