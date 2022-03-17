@@ -23,8 +23,8 @@
        <main>
             <textarea cols="30" rows="10" ng-change="CalcularQuantidadePalavras(campoPrincipal)" ng-model="campoPrincipal" placeholder="Digite seu texto aqui...">            
             </textarea>
-            <p>Quantidade de caracteres: {{!campoPrincipal ? 0 : campoPrincipal.length}}</p>
-            <p>Quantidade de palavras: {{ !campoPrincipal ? 0 : QuantidadePalavras}}</p>
+            <p>Quantidade de caracteres: <b>{{!campoPrincipal ? 0 : campoPrincipal.length}}</b> </p>
+            <p>Quantidade de palavras: <b>{{ !campoPrincipal ? 0 : QuantidadePalavras}}</b> </p>
 
        </main>
     </div>    
