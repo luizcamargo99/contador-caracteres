@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./Styles/global.css">
     <link rel="stylesheet" href="./Styles/responsive.css">
     <link rel="icon" href="./Images/icon.png">
-    <title>Contador de Caracteres</title>
+    <title>Character Counter</title>
 </head>
 
 <body ng-app="app" ng-cloak>
@@ -21,10 +21,10 @@
             <h2> {{Titulo}} </h2>
        </header>
        <main>
-            <textarea cols="30" rows="10" ng-change="CalcularQuantidadePalavras(campoPrincipal)" ng-model="campoPrincipal" placeholder="Digite seu texto aqui...">            
+            <textarea cols="30" rows="10" ng-change="CalcularQuantidadePalavras(campoPrincipal)" ng-model="campoPrincipal" placeholder="Type your text here...">            
             </textarea>
-            <p>Quantidade de caracteres: <b>{{!campoPrincipal ? 0 : campoPrincipal.length}}</b> </p>
-            <p>Quantidade de palavras: <b>{{ !campoPrincipal ? 0 : QuantidadePalavras}}</b> </p>
+            <p>Number of characters: <b>{{!campoPrincipal ? 0 : campoPrincipal.length}}</b> </p>
+            <p>Number of words: <b>{{ !campoPrincipal ? 0 : QuantidadePalavras}}</b> </p>
 
        </main>
     </div>    
