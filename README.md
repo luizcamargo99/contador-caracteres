@@ -19,8 +19,12 @@ This super simple but extremely useful project, the user is able to calculate th
 </ul>
 
 ## 💻 Interface Mockup 
-![Free-Apple-MacBook-Pro-16- -iPhone-13-Pro-Max-Mockup-PSD](https://user-images.githubusercontent.com/59785233/158846780-80860792-3e3f-4236-a5e9-f2a44cd61334.jpg)
-![Free-Macbook-Pro-Mockup-PSD-2018](https://user-images.githubusercontent.com/59785233/158846815-58aa5300-6bb4-4438-b014-019332d36635.jpg)
+
+![Free-Apple-MacBook-Pro-16- -iPhone-13-Pro-Max-Mockup-PSD](https://user-images.githubusercontent.com/59785233/158884621-9c85a1db-63db-4ef8-80b3-27a0a7055573.jpg)
+
+![Free-Macbook-Pro-Mockup-PSD-2018](https://user-images.githubusercontent.com/59785233/158884669-3f6ee105-108f-4d37-a226-ddc87c160462.jpg)
+
+
 
 ## 🤔 How do I access the project?
 
