@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/59785233/158881312-03f4050f-e4b6-41bb-99bd-61f8db388ed4.png" alt="Logo" style="width: 4rem"  />
+  <img src="https://user-images.githubusercontent.com/59785233/158881312-03f4050f-e4b6-41bb-99bd-61f8db388ed4.png" alt="Logo" style="width: 5rem"  />
   <h1> Character counter </h1>
 <a href="https://luizcamargo.dev" target="blank"><img src="https://img.shields.io/badge/Get%20to%20know%20me%20better-My%20Website-purple" alt="my website"/></a>
 </div>
@@ -8,14 +8,14 @@
 
 ## 🚀 About this project
 
-This project consists of the clone of the Ifood Site home screen, in its March 2022 version. Bringing the UI and UX elements that the Ifood site provides us.
+This super simple but extremely useful project, the user is able to calculate the amount of digital characters in the input. I myself use it in my daily life.
 
 ## 🧑🏻‍💻 Technologies 
 
 <ul>
   <li> HTML </li> 
   <li> CSS </li>
-  <li> Javascript </li> 
+  <li> AngularJS </li> 
 </ul>
 
 ## 💻 Interface Mockup 
@@ -24,7 +24,7 @@ This project consists of the clone of the Ifood Site home screen, in its March 2
 
 ## 🤔 How do I access the project?
 
-Link to access the project: <a href="https://luizcamargo99.github.io/ifood_ui_web/" taret="blank"> Ifood Ui Web </a>
+Link to access the project: <a href="https://luizcamargo99.github.io/contador-caracteres/" taret="blank"> Character counter </a>
 
 Thanks for your attention, see you later!👍
 
