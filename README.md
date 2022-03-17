@@ -8,7 +8,7 @@
 
 ## 🚀 About this project
 
-This super simple but extremely useful project, the user is able to calculate the amount of digital characters in the input. I myself use it in my daily life.
+This super simple but extremely useful project, the user is able to calculate the amount of digital characters in the input. I myself use it in my daily life. With a feature that also calculates the amount of written words.
 
 ## 🧑🏻‍💻 Technologies 
 
